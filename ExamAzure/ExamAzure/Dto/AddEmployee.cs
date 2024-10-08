@@ -11,7 +11,7 @@ namespace ExamAzure.Dto
 
         [Required]
         [DataType(DataType.Date)]
-        [Range(16, int.MaxValue, ErrorMessage = "Nhân viên phải trên 16 tuổi.")]
+ 
         public DateTime EmployeeDOB { get; set; }
 
         [Required]

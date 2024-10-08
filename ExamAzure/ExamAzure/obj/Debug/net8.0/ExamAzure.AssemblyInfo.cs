@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a742f355762d310d08692a17f75e043ebc37e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
